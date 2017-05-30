@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- <base href='/CHDgram/'> -->
+
+    <title>CHDgram</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="static/lib/css/bootstrap.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="static/css/custom.css" rel="stylesheet">
+    <!-- for jquery sliders -->
+    <link href="static/lib/css/jquery-ui.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- clust instruct container -->
+  <div id='clust_instruct_container' >
+
+    <h1 id='viz_website_title'>CHDgram  </h1>
+
+    <div id='viz_gmt_labels'></div>
+
+    <div class='viz_instruct_text'> Zoom using scroll, reorder using the reorder buttons or by double-clicking rows or columns, and search for a gene using the search box. </div>
+
+    <div class='viz_instruct_text' id='ppi_instruct'> Direct and indirect PPI interactions among the protein products of mutated genes are shown as light and dark tiles, respectively. The color of a tile indicates the number of cardiac phenotypes associated with the interacting proteins - red tiles and red label-bars indicate the number of phenotypes. A gene's Samocha score is indicated by the blue triangle - the darker blue the better the score. The most promising interactions, e.g. PTPN11 and SOS1, are direct interactions among mutated proteins with good Samocha scores and that are both associated with multiple cardiac phenotypes.</div>
+
+    <div class='viz_instruct_text pheno_instruct'>The cardiac phenotypes associated with a gene knockdown in mice are shown as columns and de novo mutations are shown as rows. A gene's Samocha score is shown with a blue triangle - the darker blue the better the score. Reordering the clustergram by rank shows genes with the most phenotypes at the top. The most promising de novo mutations are those with good Samocha scores and many associated cardiac phenotypes.</div>
+
+    <!-- toggle view -->
+    <div class='viz_instruct_text'> Choose View: </div>
+    <div id='toggle_view' class="btn-group" data-toggle="buttons" >
+      <label class="btn btn-success active order_name">
+        <input type="radio" name="options" id="ppi" autocomplete="off" > PPI
+      </label>
+      <label class="btn btn-success order_name">
+        <input type="radio" name="options" id="pheno" autocomplete="off" checked > Cardiac Phenotypes
+      </label>
+    </div>
+
+    <div class='viz_instruct_text'> Choose Data: </div>
+    <!-- toggle cases -->
+    <div id='toggle_cases' class="btn-group" data-toggle="buttons" >
+      <label class="btn btn-warning active order_name">
+        <input type="radio" name="options" id="Cases" autocomplete="off" checked > Cases
+      </label>
+      <label class="btn btn-warning order_name">
+        <input type="radio" name="options" id="Controls" autocomplete="off" > Controls
+      </label>
+    </div>
+
+    <!-- toggle clustergram order -->
+    <div class='viz_instruct_text'> Reorder: </div>
+    <div id='toggle_order' class="btn-group" data-toggle="buttons" >
+      <label id='default_order' class="btn btn-primary active order_name">
+        <input type="radio" name="options" id="clust_button" autocomplete="off" checked > Cluster
+      </label>
+      <label class="btn btn-primary order_name">
+        <input type="radio" name="options" id="rank_button" autocomplete="off" > Rank
+      </label>
+      <label class="btn btn-primary order_name">
+        <input type="radio" name="options" id="class_button" autocomplete="off" > Samocha
+      </label>
+    </div>
+
+    <!-- input box for gene search -->
+    <div id='gene_search_container' class='row'>
+        <input id='gene_search_box' type="text" class="form-control" placeholder="Input Gene" aria-describedby="sizing-addon2">
+        <div id='gene_search_button' class="btn-group" data-toggle="buttons" >
+          <label id='submit_gene_button' class="btn btn-primary active">
+            <input type="radio" name="options" id="" autocomplete="off" checked > Search
+          </label>
+        </div>
+    </div>
+
+ <!--    <div class='pheno_instruct'>
+      <div class='viz_instruct_text' > Column Colorbar Group Size</div>
+      <div id="slider_col"></div>
+      <div class='viz_instruct_text' > Row Colorbar Group Size</div>
+      <div id="slider_row"></div>
+    </div> -->
+
+  </div>
+  <!-- end clust instruct container -->
+
+  <!-- svg_div - visualization will be put here -->
+  <div id='svg_div' class='svg_div' ></div>
+
+
+  <!-- footer -->
+  <footer id='footer_div' class="footer navbar-fixed-bottom">
+    <div class="row" >
+      <div class="col-xs-12 footer_section">
+        <p class="text-muted">CHDgram is being developed by the <a href="http://icahn.mssm.edu/research/labs/maayan-laboratory">Ma'ayan Lab</a> at the <a href="http://icahn.mssm.edu/">Icahn School of Medicine at Mount Sinai</a>. </p>
+      </div>
+    </div>
+  </footer>
+  <!-- end footer -->
+
+  <!-- Required JS Libraries -->
+  <script src="static/lib/js/d3.js"></script>
+  <script src="static/lib/js/jquery-1.11.2.min.js"></script>
+  <script src="static/lib/js/jquery-ui.js"></script>
+  <script src="static/lib/js/bootstrap.min.js"></script>
+  <script src="static/lib/js/underscore-min.js"></script>
+  <script src="static/lib/js/underscore.strings.js"></script>
+
+  <!-- clustergram.js -->
+  <script src='static/js/d3_clustergram.js'></script>
+  <!-- load clustergram -->
+  <script src='static/js/load_clustergram.js'></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,5949 @@
+{
+  "row_nodes": [
+    {
+      "cat_3_index": 0, 
+      "group": [
+        42.0, 
+        42.0, 
+        41.0, 
+        40.0, 
+        39.0, 
+        29.0, 
+        24.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "ABI1", 
+      "clust": 38, 
+      "cat_2_index": 3, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 15, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 66, 
+      "cat-1": "Seed: Seed", 
+      "ini": 68, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 56, 
+      "rankvar": 66, 
+      "cat_4_index": 62
+    }, 
+    {
+      "cat_3_index": 14, 
+      "group": [
+        17.0, 
+        17.0, 
+        17.0, 
+        17.0, 
+        17.0, 
+        14.0, 
+        12.0, 
+        8.0, 
+        5.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "ACTA1", 
+      "clust": 16, 
+      "cat_2_index": 4, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 16, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 60, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 67, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 0, 
+      "rankvar": 60, 
+      "cat_4_index": 0
+    }, 
+    {
+      "cat_3_index": 15, 
+      "group": [
+        23.0, 
+        23.0, 
+        23.0, 
+        22.0, 
+        22.0, 
+        19.0, 
+        16.0, 
+        11.0, 
+        8.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "ACTB", 
+      "clust": 20, 
+      "cat_2_index": 5, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 17, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 53, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 66, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 1, 
+      "rankvar": 53, 
+      "cat_4_index": 1
+    }, 
+    {
+      "cat_3_index": 16, 
+      "group": [
+        12.0, 
+        12.0, 
+        12.0, 
+        12.0, 
+        12.0, 
+        9.0, 
+        7.0, 
+        5.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "AKT1", 
+      "clust": 9, 
+      "cat_2_index": 0, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 18, 
+      "cat-2": "Myelination: Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 61, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 65, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 2, 
+      "rankvar": 62, 
+      "cat_4_index": 2
+    }, 
+    {
+      "cat_3_index": 17, 
+      "group": [
+        13.0, 
+        13.0, 
+        13.0, 
+        13.0, 
+        13.0, 
+        10.0, 
+        8.0, 
+        5.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "AKT1S1", 
+      "clust": 8, 
+      "cat_2_index": 6, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 19, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 1, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 64, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 3, 
+      "rankvar": 1, 
+      "cat_4_index": 3
+    }, 
+    {
+      "cat_3_index": 18, 
+      "group": [
+        40.0, 
+        40.0, 
+        39.0, 
+        38.0, 
+        37.0, 
+        28.0, 
+        23.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "BRK1", 
+      "clust": 40, 
+      "cat_2_index": 7, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 0, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 36, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 63, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 4, 
+      "rankvar": 37, 
+      "cat_4_index": 63
+    }, 
+    {
+      "cat_3_index": 1, 
+      "group": [
+        59.0, 
+        59.0, 
+        58.0, 
+        56.0, 
+        55.0, 
+        43.0, 
+        37.0, 
+        26.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "CAND1", 
+      "clust": 59, 
+      "cat_2_index": 8, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 20, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 2, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 62, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 5, 
+      "rankvar": 3, 
+      "cat_4_index": 4
+    }, 
+    {
+      "cat_3_index": 19, 
+      "group": [
+        61.0, 
+        61.0, 
+        60.0, 
+        58.0, 
+        57.0, 
+        44.0, 
+        37.0, 
+        26.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "CCND1", 
+      "clust": 57, 
+      "cat_2_index": 9, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 21, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 28, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 61, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 6, 
+      "rankvar": 28, 
+      "cat_4_index": 5
+    }, 
+    {
+      "cat_3_index": 2, 
+      "group": [
+        32.0, 
+        32.0, 
+        32.0, 
+        31.0, 
+        31.0, 
+        24.0, 
+        20.0, 
+        14.0, 
+        10.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "CDC42", 
+      "clust": 31, 
+      "cat_2_index": 10, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 1, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 65, 
+      "cat-1": "Seed: Seed", 
+      "ini": 60, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 57, 
+      "rankvar": 65, 
+      "cat_4_index": 6
+    }, 
+    {
+      "cat_3_index": 20, 
+      "group": [
+        24.0, 
+        24.0, 
+        24.0, 
+        23.0, 
+        23.0, 
+        20.0, 
+        17.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "CDC42SE1", 
+      "clust": 27, 
+      "cat_2_index": 11, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 22, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 3, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 59, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 7, 
+      "rankvar": 4, 
+      "cat_4_index": 7
+    }, 
+    {
+      "cat_3_index": 21, 
+      "group": [
+        21.0, 
+        21.0, 
+        21.0, 
+        21.0, 
+        21.0, 
+        18.0, 
+        15.0, 
+        11.0, 
+        8.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "CFL1", 
+      "clust": 21, 
+      "cat_2_index": 12, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 2, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 29, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 58, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 8, 
+      "rankvar": 29, 
+      "cat_4_index": 8
+    }, 
+    {
+      "cat_3_index": 22, 
+      "group": [
+        29.0, 
+        29.0, 
+        29.0, 
+        28.0, 
+        28.0, 
+        21.0, 
+        18.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "CHN2", 
+      "clust": 29, 
+      "cat_2_index": 13, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 23, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 4, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 57, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 9, 
+      "rankvar": 5, 
+      "cat_4_index": 9
+    }, 
+    {
+      "cat_3_index": 23, 
+      "group": [
+        3.0, 
+        3.0, 
+        3.0, 
+        3.0, 
+        3.0, 
+        3.0, 
+        3.0, 
+        3.0, 
+        2.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "CLIP1", 
+      "clust": 2, 
+      "cat_2_index": 14, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 24, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 5, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 56, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 10, 
+      "rankvar": 6, 
+      "cat_4_index": 10
+    }, 
+    {
+      "cat_3_index": 3, 
+      "group": [
+        57.0, 
+        57.0, 
+        56.0, 
+        55.0, 
+        54.0, 
+        43.0, 
+        37.0, 
+        26.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "CUL3", 
+      "clust": 60, 
+      "cat_2_index": 15, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 3, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 48, 
+      "cat-1": "Seed: Seed", 
+      "ini": 55, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 58, 
+      "rankvar": 49, 
+      "cat_4_index": 11
+    }, 
+    {
+      "cat_3_index": 4, 
+      "group": [
+        14.0, 
+        14.0, 
+        14.0, 
+        14.0, 
+        14.0, 
+        11.0, 
+        9.0, 
+        6.0, 
+        4.0, 
+        3.0, 
+        1.0
+      ], 
+      "name": "CYFIP1", 
+      "clust": 14, 
+      "cat_2_index": 16, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 25, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 37, 
+      "cat-1": "Seed: Seed", 
+      "ini": 54, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 59, 
+      "rankvar": 38, 
+      "cat_4_index": 64
+    }, 
+    {
+      "cat_3_index": 24, 
+      "group": [
+        37.0, 
+        37.0, 
+        37.0, 
+        36.0, 
+        36.0, 
+        28.0, 
+        23.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "CYFIP2", 
+      "clust": 42, 
+      "cat_2_index": 17, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 26, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 58, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 53, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 11, 
+      "rankvar": 58, 
+      "cat_4_index": 12
+    }, 
+    {
+      "cat_3_index": 5, 
+      "group": [
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0
+      ], 
+      "name": "DLC1", 
+      "clust": 0, 
+      "cat_2_index": 18, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 4, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 0, 
+      "cat-1": "Seed: Seed", 
+      "ini": 52, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 60, 
+      "rankvar": 0, 
+      "cat_4_index": 13
+    }, 
+    {
+      "cat_3_index": 25, 
+      "group": [
+        44.0, 
+        44.0, 
+        43.0, 
+        42.0, 
+        41.0, 
+        31.0, 
+        26.0, 
+        17.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "DNMBP", 
+      "clust": 36, 
+      "cat_2_index": 19, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 27, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 49, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 51, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 12, 
+      "rankvar": 50, 
+      "cat_4_index": 14
+    }, 
+    {
+      "cat_3_index": 26, 
+      "group": [
+        15.0, 
+        15.0, 
+        15.0, 
+        15.0, 
+        15.0, 
+        12.0, 
+        10.0, 
+        6.0, 
+        4.0, 
+        3.0, 
+        1.0
+      ], 
+      "name": "EIF4E", 
+      "clust": 15, 
+      "cat_2_index": 20, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 28, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 6, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 50, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 13, 
+      "rankvar": 7, 
+      "cat_4_index": 15
+    }, 
+    {
+      "cat_3_index": 27, 
+      "group": [
+        9.0, 
+        9.0, 
+        9.0, 
+        9.0, 
+        9.0, 
+        7.0, 
+        7.0, 
+        5.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "EIF4EBP1", 
+      "clust": 11, 
+      "cat_2_index": 21, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 29, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 50, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 49, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 14, 
+      "rankvar": 52, 
+      "cat_4_index": 16
+    }, 
+    {
+      "cat_3_index": 28, 
+      "group": [
+        49.0, 
+        49.0, 
+        48.0, 
+        47.0, 
+        46.0, 
+        35.0, 
+        30.0, 
+        21.0, 
+        14.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "ENAH", 
+      "clust": 50, 
+      "cat_2_index": 22, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 30, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 54, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 48, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 15, 
+      "rankvar": 54, 
+      "cat_4_index": 17
+    }, 
+    {
+      "cat_3_index": 29, 
+      "group": [
+        50.0, 
+        50.0, 
+        49.0, 
+        48.0, 
+        47.0, 
+        36.0, 
+        30.0, 
+        21.0, 
+        14.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "EVL", 
+      "clust": 51, 
+      "cat_2_index": 23, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 31, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 38, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 47, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 16, 
+      "rankvar": 39, 
+      "cat_4_index": 18
+    }, 
+    {
+      "cat_3_index": 6, 
+      "group": [
+        53.0, 
+        53.0, 
+        52.0, 
+        51.0, 
+        50.0, 
+        39.0, 
+        33.0, 
+        23.0, 
+        15.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "FMNL1", 
+      "clust": 53, 
+      "cat_2_index": 24, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 5, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 39, 
+      "cat-1": "Seed: Seed", 
+      "ini": 46, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 61, 
+      "rankvar": 44, 
+      "cat_4_index": 19
+    }, 
+    {
+      "cat_3_index": 30, 
+      "group": [
+        16.0, 
+        16.0, 
+        16.0, 
+        16.0, 
+        16.0, 
+        13.0, 
+        11.0, 
+        7.0, 
+        4.0, 
+        3.0, 
+        1.0
+      ], 
+      "name": "FMR1", 
+      "clust": 13, 
+      "cat_2_index": 25, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 32, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 7, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 45, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 17, 
+      "rankvar": 21, 
+      "cat_4_index": 20
+    }, 
+    {
+      "cat_3_index": 31, 
+      "group": [
+        4.0, 
+        4.0, 
+        4.0, 
+        4.0, 
+        4.0, 
+        4.0, 
+        4.0, 
+        3.0, 
+        2.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "GPHN", 
+      "clust": 3, 
+      "cat_2_index": 26, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 33, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 40, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 44, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 18, 
+      "rankvar": 36, 
+      "cat_4_index": 21
+    }, 
+    {
+      "cat_3_index": 32, 
+      "group": [
+        60.0, 
+        60.0, 
+        59.0, 
+        57.0, 
+        56.0, 
+        43.0, 
+        37.0, 
+        26.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "GPS1", 
+      "clust": 58, 
+      "cat_2_index": 27, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 34, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 8, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 43, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 19, 
+      "rankvar": 8, 
+      "cat_4_index": 22
+    }, 
+    {
+      "cat_3_index": 33, 
+      "group": [
+        2.0, 
+        2.0, 
+        2.0, 
+        2.0, 
+        2.0, 
+        2.0, 
+        2.0, 
+        2.0, 
+        1.0, 
+        1.0, 
+        1.0
+      ], 
+      "name": "GRB10", 
+      "clust": 1, 
+      "cat_2_index": 28, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 35, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 9, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 42, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 20, 
+      "rankvar": 2, 
+      "cat_4_index": 23
+    }, 
+    {
+      "cat_3_index": 34, 
+      "group": [
+        64.0, 
+        64.0, 
+        63.0, 
+        61.0, 
+        60.0, 
+        47.0, 
+        39.0, 
+        28.0, 
+        18.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "HDAC6", 
+      "clust": 66, 
+      "cat_2_index": 29, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 36, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 10, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 41, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 21, 
+      "rankvar": 22, 
+      "cat_4_index": 24
+    }, 
+    {
+      "cat_3_index": 35, 
+      "group": [
+        62.0, 
+        62.0, 
+        61.0, 
+        59.0, 
+        58.0, 
+        45.0, 
+        38.0, 
+        27.0, 
+        17.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "KAT2A", 
+      "clust": 62, 
+      "cat_2_index": 30, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 37, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 11, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 40, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 22, 
+      "rankvar": 26, 
+      "cat_4_index": 25
+    }, 
+    {
+      "cat_3_index": 36, 
+      "group": [
+        67.0, 
+        67.0, 
+        66.0, 
+        64.0, 
+        62.0, 
+        49.0, 
+        41.0, 
+        29.0, 
+        18.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "KAT2B", 
+      "clust": 64, 
+      "cat_2_index": 31, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 38, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 12, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 39, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 23, 
+      "rankvar": 9, 
+      "cat_4_index": 26
+    }, 
+    {
+      "cat_3_index": 37, 
+      "group": [
+        18.0, 
+        18.0, 
+        18.0, 
+        18.0, 
+        18.0, 
+        15.0, 
+        13.0, 
+        9.0, 
+        6.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "KIF23", 
+      "clust": 17, 
+      "cat_2_index": 32, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 39, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 13, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 38, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 24, 
+      "rankvar": 10, 
+      "cat_4_index": 27
+    }, 
+    {
+      "cat_3_index": 38, 
+      "group": [
+        56.0, 
+        56.0, 
+        55.0, 
+        54.0, 
+        53.0, 
+        42.0, 
+        36.0, 
+        25.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "KLHL12", 
+      "clust": 55, 
+      "cat_2_index": 33, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 40, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 14, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 37, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 25, 
+      "rankvar": 11, 
+      "cat_4_index": 28
+    }, 
+    {
+      "cat_3_index": 39, 
+      "group": [
+        34.0, 
+        34.0, 
+        34.0, 
+        33.0, 
+        33.0, 
+        26.0, 
+        21.0, 
+        15.0, 
+        11.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "MAP3K10", 
+      "clust": 34, 
+      "cat_2_index": 34, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 41, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 30, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 36, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 26, 
+      "rankvar": 30, 
+      "cat_4_index": 29
+    }, 
+    {
+      "cat_3_index": 40, 
+      "group": [
+        30.0, 
+        30.0, 
+        30.0, 
+        29.0, 
+        29.0, 
+        22.0, 
+        18.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "MAP3K4", 
+      "clust": 30, 
+      "cat_2_index": 35, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 42, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 31, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 35, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 27, 
+      "rankvar": 31, 
+      "cat_4_index": 30
+    }, 
+    {
+      "cat_3_index": 41, 
+      "group": [
+        25.0, 
+        25.0, 
+        25.0, 
+        24.0, 
+        24.0, 
+        20.0, 
+        17.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "MCF2L", 
+      "clust": 28, 
+      "cat_2_index": 36, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 43, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 15, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 34, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 28, 
+      "rankvar": 12, 
+      "cat_4_index": 31
+    }, 
+    {
+      "cat_3_index": 42, 
+      "group": [
+        45.0, 
+        45.0, 
+        44.0, 
+        43.0, 
+        42.0, 
+        32.0, 
+        27.0, 
+        18.0, 
+        13.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "MINK1", 
+      "clust": 46, 
+      "cat_2_index": 37, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 6, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 16, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 33, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 29, 
+      "rankvar": 13, 
+      "cat_4_index": 32
+    }, 
+    {
+      "cat_3_index": 43, 
+      "group": [
+        7.0, 
+        7.0, 
+        7.0, 
+        7.0, 
+        7.0, 
+        6.0, 
+        6.0, 
+        4.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "MLST8", 
+      "clust": 6, 
+      "cat_2_index": 38, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 44, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 17, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 32, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 30, 
+      "rankvar": 14, 
+      "cat_4_index": 33
+    }, 
+    {
+      "cat_3_index": 7, 
+      "group": [
+        5.0, 
+        5.0, 
+        5.0, 
+        5.0, 
+        5.0, 
+        5.0, 
+        5.0, 
+        4.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "MTOR", 
+      "clust": 4, 
+      "cat_2_index": 1, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 45, 
+      "cat-2": "Myelination: Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 63, 
+      "cat-1": "Seed: Seed", 
+      "ini": 31, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 62, 
+      "rankvar": 63, 
+      "cat_4_index": 34
+    }, 
+    {
+      "cat_3_index": 44, 
+      "group": [
+        41.0, 
+        41.0, 
+        40.0, 
+        39.0, 
+        38.0, 
+        28.0, 
+        23.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "NCK1", 
+      "clust": 39, 
+      "cat_2_index": 39, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 46, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 62, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 30, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 31, 
+      "rankvar": 61, 
+      "cat_4_index": 35
+    }, 
+    {
+      "cat_3_index": 8, 
+      "group": [
+        38.0, 
+        38.0, 
+        37.0, 
+        36.0, 
+        36.0, 
+        28.0, 
+        23.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "NCKAP1", 
+      "clust": 43, 
+      "cat_2_index": 40, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 7, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 59, 
+      "cat-1": "Seed: Seed", 
+      "ini": 29, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 63, 
+      "rankvar": 59, 
+      "cat_4_index": 65
+    }, 
+    {
+      "cat_3_index": 45, 
+      "group": [
+        19.0, 
+        19.0, 
+        19.0, 
+        19.0, 
+        19.0, 
+        16.0, 
+        14.0, 
+        10.0, 
+        7.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "NRAP", 
+      "clust": 18, 
+      "cat_2_index": 41, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 47, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 18, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 28, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 32, 
+      "rankvar": 23, 
+      "cat_4_index": 36
+    }, 
+    {
+      "cat_3_index": 9, 
+      "group": [
+        26.0, 
+        26.0, 
+        26.0, 
+        25.0, 
+        25.0, 
+        20.0, 
+        17.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "OPHN1", 
+      "clust": 26, 
+      "cat_2_index": 42, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 8, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 19, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 27, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 33, 
+      "rankvar": 15, 
+      "cat_4_index": 37
+    }, 
+    {
+      "cat_3_index": 46, 
+      "group": [
+        47.0, 
+        47.0, 
+        46.0, 
+        45.0, 
+        44.0, 
+        33.0, 
+        28.0, 
+        19.0, 
+        13.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "PAK2", 
+      "clust": 45, 
+      "cat_2_index": 43, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 48, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 45, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 26, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 34, 
+      "rankvar": 47, 
+      "cat_4_index": 38
+    }, 
+    {
+      "cat_3_index": 47, 
+      "group": [
+        55.0, 
+        55.0, 
+        54.0, 
+        53.0, 
+        52.0, 
+        41.0, 
+        35.0, 
+        24.0, 
+        15.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "PFN1", 
+      "clust": 52, 
+      "cat_2_index": 44, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 9, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 51, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 25, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 35, 
+      "rankvar": 48, 
+      "cat_4_index": 39
+    }, 
+    {
+      "cat_3_index": 48, 
+      "group": [
+        27.0, 
+        27.0, 
+        27.0, 
+        26.0, 
+        26.0, 
+        20.0, 
+        17.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "PLEKHG2", 
+      "clust": 25, 
+      "cat_2_index": 45, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 49, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 20, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 24, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 36, 
+      "rankvar": 16, 
+      "cat_4_index": 40
+    }, 
+    {
+      "cat_3_index": 49, 
+      "group": [
+        54.0, 
+        54.0, 
+        53.0, 
+        52.0, 
+        51.0, 
+        40.0, 
+        34.0, 
+        23.0, 
+        15.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "PRPF40A", 
+      "clust": 54, 
+      "cat_2_index": 46, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 50, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 21, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 23, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 37, 
+      "rankvar": 17, 
+      "cat_4_index": 41
+    }, 
+    {
+      "cat_3_index": 50, 
+      "group": [
+        33.0, 
+        33.0, 
+        33.0, 
+        32.0, 
+        32.0, 
+        25.0, 
+        20.0, 
+        14.0, 
+        10.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "RAC1", 
+      "clust": 32, 
+      "cat_2_index": 47, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 10, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 67, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 22, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 38, 
+      "rankvar": 67, 
+      "cat_4_index": 42
+    }, 
+    {
+      "cat_3_index": 10, 
+      "group": [
+        36.0, 
+        36.0, 
+        36.0, 
+        35.0, 
+        35.0, 
+        27.0, 
+        22.0, 
+        15.0, 
+        11.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "RACGAP1", 
+      "clust": 33, 
+      "cat_2_index": 48, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 11, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 55, 
+      "cat-1": "Seed: Seed", 
+      "ini": 21, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 64, 
+      "rankvar": 55, 
+      "cat_4_index": 43
+    }, 
+    {
+      "cat_3_index": 51, 
+      "group": [
+        58.0, 
+        58.0, 
+        57.0, 
+        55.0, 
+        54.0, 
+        43.0, 
+        37.0, 
+        26.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "RBX1", 
+      "clust": 61, 
+      "cat_2_index": 49, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 51, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 41, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 20, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 39, 
+      "rankvar": 40, 
+      "cat_4_index": 44
+    }, 
+    {
+      "cat_3_index": 52, 
+      "group": [
+        8.0, 
+        8.0, 
+        8.0, 
+        8.0, 
+        8.0, 
+        6.0, 
+        6.0, 
+        4.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "RHEB", 
+      "clust": 7, 
+      "cat_2_index": 50, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 52, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 22, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 19, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 40, 
+      "rankvar": 24, 
+      "cat_4_index": 45
+    }, 
+    {
+      "cat_3_index": 53, 
+      "group": [
+        10.0, 
+        10.0, 
+        10.0, 
+        10.0, 
+        10.0, 
+        7.0, 
+        7.0, 
+        5.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "RHEBL1", 
+      "clust": 12, 
+      "cat_2_index": 51, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 53, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 32, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 18, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 41, 
+      "rankvar": 32, 
+      "cat_4_index": 46
+    }, 
+    {
+      "cat_3_index": 54, 
+      "group": [
+        56.0, 
+        56.0, 
+        55.0, 
+        54.0, 
+        53.0, 
+        42.0, 
+        36.0, 
+        25.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "RIT1", 
+      "clust": 56, 
+      "cat_2_index": 52, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 54, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 23, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 17, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 42, 
+      "rankvar": 18, 
+      "cat_4_index": 47
+    }, 
+    {
+      "cat_3_index": 55, 
+      "group": [
+        11.0, 
+        11.0, 
+        11.0, 
+        11.0, 
+        11.0, 
+        8.0, 
+        7.0, 
+        5.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "RPS6KB1", 
+      "clust": 10, 
+      "cat_2_index": 53, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 55, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 52, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 16, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 43, 
+      "rankvar": 51, 
+      "cat_4_index": 48
+    }, 
+    {
+      "cat_3_index": 56, 
+      "group": [
+        6.0, 
+        6.0, 
+        6.0, 
+        6.0, 
+        6.0, 
+        5.0, 
+        5.0, 
+        4.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "RPTOR", 
+      "clust": 5, 
+      "cat_2_index": 54, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 56, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 46, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 15, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 44, 
+      "rankvar": 45, 
+      "cat_4_index": 49
+    }, 
+    {
+      "cat_3_index": 57, 
+      "group": [
+        35.0, 
+        35.0, 
+        35.0, 
+        34.0, 
+        34.0, 
+        26.0, 
+        21.0, 
+        15.0, 
+        11.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "SH3RF1", 
+      "clust": 35, 
+      "cat_2_index": 55, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 57, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 42, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 14, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 45, 
+      "rankvar": 41, 
+      "cat_4_index": 50
+    }, 
+    {
+      "cat_3_index": 11, 
+      "group": [
+        65.0, 
+        65.0, 
+        64.0, 
+        62.0, 
+        60.0, 
+        47.0, 
+        39.0, 
+        28.0, 
+        18.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "SIRT2", 
+      "clust": 67, 
+      "cat_2_index": 2, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 58, 
+      "cat-2": "Myelination: Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 43, 
+      "cat-1": "Seed: Seed", 
+      "ini": 13, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 65, 
+      "rankvar": 42, 
+      "cat_4_index": 51
+    }, 
+    {
+      "cat_3_index": 58, 
+      "group": [
+        46.0, 
+        46.0, 
+        45.0, 
+        44.0, 
+        43.0, 
+        32.0, 
+        27.0, 
+        18.0, 
+        13.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "SOCS7", 
+      "clust": 47, 
+      "cat_2_index": 56, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 59, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 24, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 12, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 46, 
+      "rankvar": 19, 
+      "cat_4_index": 52
+    }, 
+    {
+      "cat_3_index": 59, 
+      "group": [
+        51.0, 
+        51.0, 
+        50.0, 
+        49.0, 
+        48.0, 
+        37.0, 
+        31.0, 
+        21.0, 
+        14.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "SPTA1", 
+      "clust": 49, 
+      "cat_2_index": 57, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 60, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 44, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 11, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 47, 
+      "rankvar": 43, 
+      "cat_4_index": 53
+    }, 
+    {
+      "cat_3_index": 12, 
+      "group": [
+        22.0, 
+        22.0, 
+        22.0, 
+        21.0, 
+        21.0, 
+        18.0, 
+        15.0, 
+        11.0, 
+        8.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "SSH2", 
+      "clust": 22, 
+      "cat_2_index": 58, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 12, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 25, 
+      "cat-1": "Seed: Seed", 
+      "ini": 10, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 66, 
+      "rankvar": 27, 
+      "cat_4_index": 54
+    }, 
+    {
+      "cat_3_index": 60, 
+      "group": [
+        28.0, 
+        28.0, 
+        28.0, 
+        27.0, 
+        27.0, 
+        20.0, 
+        17.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "TBC1D3F", 
+      "clust": 24, 
+      "cat_2_index": 59, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 61, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 26, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 9, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 48, 
+      "rankvar": 20, 
+      "cat_4_index": 55
+    }, 
+    {
+      "cat_3_index": 61, 
+      "group": [
+        52.0, 
+        52.0, 
+        51.0, 
+        50.0, 
+        49.0, 
+        38.0, 
+        32.0, 
+        22.0, 
+        14.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "TES", 
+      "clust": 48, 
+      "cat_2_index": 60, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 62, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 33, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 8, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 49, 
+      "rankvar": 33, 
+      "cat_4_index": 56
+    }, 
+    {
+      "cat_3_index": 13, 
+      "group": [
+        20.0, 
+        20.0, 
+        20.0, 
+        20.0, 
+        20.0, 
+        17.0, 
+        14.0, 
+        10.0, 
+        7.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "TLN1", 
+      "clust": 19, 
+      "cat_2_index": 61, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 13, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 34, 
+      "cat-1": "Seed: Seed", 
+      "ini": 7, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 67, 
+      "rankvar": 34, 
+      "cat_4_index": 57
+    }, 
+    {
+      "cat_3_index": 62, 
+      "group": [
+        66.0, 
+        66.0, 
+        65.0, 
+        63.0, 
+        61.0, 
+        48.0, 
+        40.0, 
+        28.0, 
+        18.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "TUBA4A", 
+      "clust": 65, 
+      "cat_2_index": 62, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 63, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 56, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 6, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 50, 
+      "rankvar": 56, 
+      "cat_4_index": 58
+    }, 
+    {
+      "cat_3_index": 63, 
+      "group": [
+        31.0, 
+        31.0, 
+        31.0, 
+        30.0, 
+        30.0, 
+        23.0, 
+        19.0, 
+        13.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "VAV1", 
+      "clust": 23, 
+      "cat_2_index": 63, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 64, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 57, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 5, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 51, 
+      "rankvar": 57, 
+      "cat_4_index": 59
+    }, 
+    {
+      "cat_3_index": 64, 
+      "group": [
+        48.0, 
+        48.0, 
+        47.0, 
+        46.0, 
+        45.0, 
+        34.0, 
+        29.0, 
+        20.0, 
+        13.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "VAV2", 
+      "clust": 44, 
+      "cat_2_index": 64, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 65, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 27, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 4, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 52, 
+      "rankvar": 25, 
+      "cat_4_index": 60
+    }, 
+    {
+      "cat_3_index": 65, 
+      "group": [
+        39.0, 
+        39.0, 
+        38.0, 
+        37.0, 
+        36.0, 
+        28.0, 
+        23.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "WASF1", 
+      "clust": 41, 
+      "cat_2_index": 65, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 66, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 64, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 3, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 53, 
+      "rankvar": 64, 
+      "cat_4_index": 66
+    }, 
+    {
+      "cat_3_index": 66, 
+      "group": [
+        43.0, 
+        43.0, 
+        42.0, 
+        41.0, 
+        40.0, 
+        30.0, 
+        25.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "WASF2", 
+      "clust": 37, 
+      "cat_2_index": 66, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 14, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 47, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 2, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 54, 
+      "rankvar": 46, 
+      "cat_4_index": 67
+    }, 
+    {
+      "cat_3_index": 67, 
+      "group": [
+        63.0, 
+        63.0, 
+        62.0, 
+        60.0, 
+        59.0, 
+        46.0, 
+        38.0, 
+        27.0, 
+        17.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "XRCC6", 
+      "clust": 63, 
+      "cat_2_index": 67, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 67, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 35, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 1, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 55, 
+      "rankvar": 35, 
+      "cat_4_index": 61
+    }
+  ], 
+  "col_nodes": [
+    {
+      "cat_3_index": 0, 
+      "group": [
+        42.0, 
+        42.0, 
+        41.0, 
+        40.0, 
+        39.0, 
+        29.0, 
+        24.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "ABI1", 
+      "clust": 38, 
+      "cat_2_index": 3, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 15, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 66, 
+      "cat-1": "Seed: Seed", 
+      "ini": 68, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 56, 
+      "rankvar": 66, 
+      "cat_4_index": 62
+    }, 
+    {
+      "cat_3_index": 14, 
+      "group": [
+        17.0, 
+        17.0, 
+        17.0, 
+        17.0, 
+        17.0, 
+        14.0, 
+        12.0, 
+        8.0, 
+        5.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "ACTA1", 
+      "clust": 16, 
+      "cat_2_index": 4, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 16, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 60, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 67, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 0, 
+      "rankvar": 60, 
+      "cat_4_index": 0
+    }, 
+    {
+      "cat_3_index": 15, 
+      "group": [
+        23.0, 
+        23.0, 
+        23.0, 
+        22.0, 
+        22.0, 
+        19.0, 
+        16.0, 
+        11.0, 
+        8.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "ACTB", 
+      "clust": 20, 
+      "cat_2_index": 5, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 17, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 53, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 66, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 1, 
+      "rankvar": 53, 
+      "cat_4_index": 1
+    }, 
+    {
+      "cat_3_index": 16, 
+      "group": [
+        12.0, 
+        12.0, 
+        12.0, 
+        12.0, 
+        12.0, 
+        9.0, 
+        7.0, 
+        5.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "AKT1", 
+      "clust": 9, 
+      "cat_2_index": 0, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 18, 
+      "cat-2": "Myelination: Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 61, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 65, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 2, 
+      "rankvar": 62, 
+      "cat_4_index": 2
+    }, 
+    {
+      "cat_3_index": 17, 
+      "group": [
+        13.0, 
+        13.0, 
+        13.0, 
+        13.0, 
+        13.0, 
+        10.0, 
+        8.0, 
+        5.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "AKT1S1", 
+      "clust": 8, 
+      "cat_2_index": 6, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 19, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 1, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 64, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 3, 
+      "rankvar": 1, 
+      "cat_4_index": 3
+    }, 
+    {
+      "cat_3_index": 18, 
+      "group": [
+        40.0, 
+        40.0, 
+        39.0, 
+        38.0, 
+        37.0, 
+        28.0, 
+        23.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "BRK1", 
+      "clust": 40, 
+      "cat_2_index": 7, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 0, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 36, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 63, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 4, 
+      "rankvar": 37, 
+      "cat_4_index": 63
+    }, 
+    {
+      "cat_3_index": 1, 
+      "group": [
+        59.0, 
+        59.0, 
+        58.0, 
+        56.0, 
+        55.0, 
+        43.0, 
+        37.0, 
+        26.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "CAND1", 
+      "clust": 59, 
+      "cat_2_index": 8, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 20, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 2, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 62, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 5, 
+      "rankvar": 3, 
+      "cat_4_index": 4
+    }, 
+    {
+      "cat_3_index": 19, 
+      "group": [
+        61.0, 
+        61.0, 
+        60.0, 
+        58.0, 
+        57.0, 
+        44.0, 
+        37.0, 
+        26.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "CCND1", 
+      "clust": 57, 
+      "cat_2_index": 9, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 21, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 28, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 61, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 6, 
+      "rankvar": 28, 
+      "cat_4_index": 5
+    }, 
+    {
+      "cat_3_index": 2, 
+      "group": [
+        32.0, 
+        32.0, 
+        32.0, 
+        31.0, 
+        31.0, 
+        24.0, 
+        20.0, 
+        14.0, 
+        10.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "CDC42", 
+      "clust": 31, 
+      "cat_2_index": 10, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 1, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 65, 
+      "cat-1": "Seed: Seed", 
+      "ini": 60, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 57, 
+      "rankvar": 65, 
+      "cat_4_index": 6
+    }, 
+    {
+      "cat_3_index": 20, 
+      "group": [
+        24.0, 
+        24.0, 
+        24.0, 
+        23.0, 
+        23.0, 
+        20.0, 
+        17.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "CDC42SE1", 
+      "clust": 27, 
+      "cat_2_index": 11, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 22, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 3, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 59, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 7, 
+      "rankvar": 4, 
+      "cat_4_index": 7
+    }, 
+    {
+      "cat_3_index": 21, 
+      "group": [
+        21.0, 
+        21.0, 
+        21.0, 
+        21.0, 
+        21.0, 
+        18.0, 
+        15.0, 
+        11.0, 
+        8.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "CFL1", 
+      "clust": 21, 
+      "cat_2_index": 12, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 2, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 29, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 58, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 8, 
+      "rankvar": 29, 
+      "cat_4_index": 8
+    }, 
+    {
+      "cat_3_index": 22, 
+      "group": [
+        29.0, 
+        29.0, 
+        29.0, 
+        28.0, 
+        28.0, 
+        21.0, 
+        18.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "CHN2", 
+      "clust": 29, 
+      "cat_2_index": 13, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 23, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 4, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 57, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 9, 
+      "rankvar": 5, 
+      "cat_4_index": 9
+    }, 
+    {
+      "cat_3_index": 23, 
+      "group": [
+        3.0, 
+        3.0, 
+        3.0, 
+        3.0, 
+        3.0, 
+        3.0, 
+        3.0, 
+        3.0, 
+        2.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "CLIP1", 
+      "clust": 2, 
+      "cat_2_index": 14, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 24, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 5, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 56, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 10, 
+      "rankvar": 6, 
+      "cat_4_index": 10
+    }, 
+    {
+      "cat_3_index": 3, 
+      "group": [
+        57.0, 
+        57.0, 
+        56.0, 
+        55.0, 
+        54.0, 
+        43.0, 
+        37.0, 
+        26.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "CUL3", 
+      "clust": 60, 
+      "cat_2_index": 15, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 3, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 48, 
+      "cat-1": "Seed: Seed", 
+      "ini": 55, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 58, 
+      "rankvar": 49, 
+      "cat_4_index": 11
+    }, 
+    {
+      "cat_3_index": 4, 
+      "group": [
+        14.0, 
+        14.0, 
+        14.0, 
+        14.0, 
+        14.0, 
+        11.0, 
+        9.0, 
+        6.0, 
+        4.0, 
+        3.0, 
+        1.0
+      ], 
+      "name": "CYFIP1", 
+      "clust": 14, 
+      "cat_2_index": 16, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 25, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 37, 
+      "cat-1": "Seed: Seed", 
+      "ini": 54, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 59, 
+      "rankvar": 38, 
+      "cat_4_index": 64
+    }, 
+    {
+      "cat_3_index": 24, 
+      "group": [
+        37.0, 
+        37.0, 
+        37.0, 
+        36.0, 
+        36.0, 
+        28.0, 
+        23.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "CYFIP2", 
+      "clust": 42, 
+      "cat_2_index": 17, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 26, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 58, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 53, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 11, 
+      "rankvar": 58, 
+      "cat_4_index": 12
+    }, 
+    {
+      "cat_3_index": 5, 
+      "group": [
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0
+      ], 
+      "name": "DLC1", 
+      "clust": 0, 
+      "cat_2_index": 18, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 4, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 0, 
+      "cat-1": "Seed: Seed", 
+      "ini": 52, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 60, 
+      "rankvar": 0, 
+      "cat_4_index": 13
+    }, 
+    {
+      "cat_3_index": 25, 
+      "group": [
+        44.0, 
+        44.0, 
+        43.0, 
+        42.0, 
+        41.0, 
+        31.0, 
+        26.0, 
+        17.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "DNMBP", 
+      "clust": 36, 
+      "cat_2_index": 19, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 27, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 49, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 51, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 12, 
+      "rankvar": 50, 
+      "cat_4_index": 14
+    }, 
+    {
+      "cat_3_index": 26, 
+      "group": [
+        15.0, 
+        15.0, 
+        15.0, 
+        15.0, 
+        15.0, 
+        12.0, 
+        10.0, 
+        6.0, 
+        4.0, 
+        3.0, 
+        1.0
+      ], 
+      "name": "EIF4E", 
+      "clust": 15, 
+      "cat_2_index": 20, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 28, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 6, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 50, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 13, 
+      "rankvar": 7, 
+      "cat_4_index": 15
+    }, 
+    {
+      "cat_3_index": 27, 
+      "group": [
+        9.0, 
+        9.0, 
+        9.0, 
+        9.0, 
+        9.0, 
+        7.0, 
+        7.0, 
+        5.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "EIF4EBP1", 
+      "clust": 11, 
+      "cat_2_index": 21, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 29, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 50, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 49, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 14, 
+      "rankvar": 52, 
+      "cat_4_index": 16
+    }, 
+    {
+      "cat_3_index": 28, 
+      "group": [
+        49.0, 
+        49.0, 
+        48.0, 
+        47.0, 
+        46.0, 
+        35.0, 
+        30.0, 
+        21.0, 
+        14.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "ENAH", 
+      "clust": 50, 
+      "cat_2_index": 22, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 30, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 54, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 48, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 15, 
+      "rankvar": 54, 
+      "cat_4_index": 17
+    }, 
+    {
+      "cat_3_index": 29, 
+      "group": [
+        50.0, 
+        50.0, 
+        49.0, 
+        48.0, 
+        47.0, 
+        36.0, 
+        30.0, 
+        21.0, 
+        14.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "EVL", 
+      "clust": 51, 
+      "cat_2_index": 23, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 31, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 38, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 47, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 16, 
+      "rankvar": 39, 
+      "cat_4_index": 18
+    }, 
+    {
+      "cat_3_index": 6, 
+      "group": [
+        53.0, 
+        53.0, 
+        52.0, 
+        51.0, 
+        50.0, 
+        39.0, 
+        33.0, 
+        23.0, 
+        15.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "FMNL1", 
+      "clust": 53, 
+      "cat_2_index": 24, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 5, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 39, 
+      "cat-1": "Seed: Seed", 
+      "ini": 46, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 61, 
+      "rankvar": 44, 
+      "cat_4_index": 19
+    }, 
+    {
+      "cat_3_index": 30, 
+      "group": [
+        16.0, 
+        16.0, 
+        16.0, 
+        16.0, 
+        16.0, 
+        13.0, 
+        11.0, 
+        7.0, 
+        4.0, 
+        3.0, 
+        1.0
+      ], 
+      "name": "FMR1", 
+      "clust": 13, 
+      "cat_2_index": 25, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 32, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 7, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 45, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 17, 
+      "rankvar": 21, 
+      "cat_4_index": 20
+    }, 
+    {
+      "cat_3_index": 31, 
+      "group": [
+        4.0, 
+        4.0, 
+        4.0, 
+        4.0, 
+        4.0, 
+        4.0, 
+        4.0, 
+        3.0, 
+        2.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "GPHN", 
+      "clust": 3, 
+      "cat_2_index": 26, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 33, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 40, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 44, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 18, 
+      "rankvar": 36, 
+      "cat_4_index": 21
+    }, 
+    {
+      "cat_3_index": 32, 
+      "group": [
+        60.0, 
+        60.0, 
+        59.0, 
+        57.0, 
+        56.0, 
+        43.0, 
+        37.0, 
+        26.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "GPS1", 
+      "clust": 58, 
+      "cat_2_index": 27, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 34, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 8, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 43, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 19, 
+      "rankvar": 8, 
+      "cat_4_index": 22
+    }, 
+    {
+      "cat_3_index": 33, 
+      "group": [
+        2.0, 
+        2.0, 
+        2.0, 
+        2.0, 
+        2.0, 
+        2.0, 
+        2.0, 
+        2.0, 
+        1.0, 
+        1.0, 
+        1.0
+      ], 
+      "name": "GRB10", 
+      "clust": 1, 
+      "cat_2_index": 28, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 35, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 9, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 42, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 20, 
+      "rankvar": 2, 
+      "cat_4_index": 23
+    }, 
+    {
+      "cat_3_index": 34, 
+      "group": [
+        64.0, 
+        64.0, 
+        63.0, 
+        61.0, 
+        60.0, 
+        47.0, 
+        39.0, 
+        28.0, 
+        18.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "HDAC6", 
+      "clust": 66, 
+      "cat_2_index": 29, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 36, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 10, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 41, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 21, 
+      "rankvar": 22, 
+      "cat_4_index": 24
+    }, 
+    {
+      "cat_3_index": 35, 
+      "group": [
+        62.0, 
+        62.0, 
+        61.0, 
+        59.0, 
+        58.0, 
+        45.0, 
+        38.0, 
+        27.0, 
+        17.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "KAT2A", 
+      "clust": 62, 
+      "cat_2_index": 30, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 37, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 11, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 40, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 22, 
+      "rankvar": 26, 
+      "cat_4_index": 25
+    }, 
+    {
+      "cat_3_index": 36, 
+      "group": [
+        67.0, 
+        67.0, 
+        66.0, 
+        64.0, 
+        62.0, 
+        49.0, 
+        41.0, 
+        29.0, 
+        18.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "KAT2B", 
+      "clust": 64, 
+      "cat_2_index": 31, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 38, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 12, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 39, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 23, 
+      "rankvar": 9, 
+      "cat_4_index": 26
+    }, 
+    {
+      "cat_3_index": 37, 
+      "group": [
+        18.0, 
+        18.0, 
+        18.0, 
+        18.0, 
+        18.0, 
+        15.0, 
+        13.0, 
+        9.0, 
+        6.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "KIF23", 
+      "clust": 17, 
+      "cat_2_index": 32, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 39, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 13, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 38, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 24, 
+      "rankvar": 10, 
+      "cat_4_index": 27
+    }, 
+    {
+      "cat_3_index": 38, 
+      "group": [
+        56.0, 
+        56.0, 
+        55.0, 
+        54.0, 
+        53.0, 
+        42.0, 
+        36.0, 
+        25.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "KLHL12", 
+      "clust": 55, 
+      "cat_2_index": 33, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 40, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 14, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 37, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 25, 
+      "rankvar": 11, 
+      "cat_4_index": 28
+    }, 
+    {
+      "cat_3_index": 39, 
+      "group": [
+        34.0, 
+        34.0, 
+        34.0, 
+        33.0, 
+        33.0, 
+        26.0, 
+        21.0, 
+        15.0, 
+        11.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "MAP3K10", 
+      "clust": 34, 
+      "cat_2_index": 34, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 41, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 30, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 36, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 26, 
+      "rankvar": 30, 
+      "cat_4_index": 29
+    }, 
+    {
+      "cat_3_index": 40, 
+      "group": [
+        30.0, 
+        30.0, 
+        30.0, 
+        29.0, 
+        29.0, 
+        22.0, 
+        18.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "MAP3K4", 
+      "clust": 30, 
+      "cat_2_index": 35, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 42, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 31, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 35, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 27, 
+      "rankvar": 31, 
+      "cat_4_index": 30
+    }, 
+    {
+      "cat_3_index": 41, 
+      "group": [
+        25.0, 
+        25.0, 
+        25.0, 
+        24.0, 
+        24.0, 
+        20.0, 
+        17.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "MCF2L", 
+      "clust": 28, 
+      "cat_2_index": 36, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 43, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 15, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 34, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 28, 
+      "rankvar": 12, 
+      "cat_4_index": 31
+    }, 
+    {
+      "cat_3_index": 42, 
+      "group": [
+        45.0, 
+        45.0, 
+        44.0, 
+        43.0, 
+        42.0, 
+        32.0, 
+        27.0, 
+        18.0, 
+        13.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "MINK1", 
+      "clust": 46, 
+      "cat_2_index": 37, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 6, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 16, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 33, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 29, 
+      "rankvar": 13, 
+      "cat_4_index": 32
+    }, 
+    {
+      "cat_3_index": 43, 
+      "group": [
+        7.0, 
+        7.0, 
+        7.0, 
+        7.0, 
+        7.0, 
+        6.0, 
+        6.0, 
+        4.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "MLST8", 
+      "clust": 6, 
+      "cat_2_index": 38, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 44, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 17, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 32, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 30, 
+      "rankvar": 14, 
+      "cat_4_index": 33
+    }, 
+    {
+      "cat_3_index": 7, 
+      "group": [
+        5.0, 
+        5.0, 
+        5.0, 
+        5.0, 
+        5.0, 
+        5.0, 
+        5.0, 
+        4.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "MTOR", 
+      "clust": 4, 
+      "cat_2_index": 1, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 45, 
+      "cat-2": "Myelination: Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 63, 
+      "cat-1": "Seed: Seed", 
+      "ini": 31, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 62, 
+      "rankvar": 63, 
+      "cat_4_index": 34
+    }, 
+    {
+      "cat_3_index": 44, 
+      "group": [
+        41.0, 
+        41.0, 
+        40.0, 
+        39.0, 
+        38.0, 
+        28.0, 
+        23.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "NCK1", 
+      "clust": 39, 
+      "cat_2_index": 39, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 46, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 62, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 30, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 31, 
+      "rankvar": 61, 
+      "cat_4_index": 35
+    }, 
+    {
+      "cat_3_index": 8, 
+      "group": [
+        38.0, 
+        38.0, 
+        37.0, 
+        36.0, 
+        36.0, 
+        28.0, 
+        23.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "NCKAP1", 
+      "clust": 43, 
+      "cat_2_index": 40, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 7, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 59, 
+      "cat-1": "Seed: Seed", 
+      "ini": 29, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 63, 
+      "rankvar": 59, 
+      "cat_4_index": 65
+    }, 
+    {
+      "cat_3_index": 45, 
+      "group": [
+        19.0, 
+        19.0, 
+        19.0, 
+        19.0, 
+        19.0, 
+        16.0, 
+        14.0, 
+        10.0, 
+        7.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "NRAP", 
+      "clust": 18, 
+      "cat_2_index": 41, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 47, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 18, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 28, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 32, 
+      "rankvar": 23, 
+      "cat_4_index": 36
+    }, 
+    {
+      "cat_3_index": 9, 
+      "group": [
+        26.0, 
+        26.0, 
+        26.0, 
+        25.0, 
+        25.0, 
+        20.0, 
+        17.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "OPHN1", 
+      "clust": 26, 
+      "cat_2_index": 42, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 8, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 19, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 27, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 33, 
+      "rankvar": 15, 
+      "cat_4_index": 37
+    }, 
+    {
+      "cat_3_index": 46, 
+      "group": [
+        47.0, 
+        47.0, 
+        46.0, 
+        45.0, 
+        44.0, 
+        33.0, 
+        28.0, 
+        19.0, 
+        13.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "PAK2", 
+      "clust": 45, 
+      "cat_2_index": 43, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 48, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 45, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 26, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 34, 
+      "rankvar": 47, 
+      "cat_4_index": 38
+    }, 
+    {
+      "cat_3_index": 47, 
+      "group": [
+        55.0, 
+        55.0, 
+        54.0, 
+        53.0, 
+        52.0, 
+        41.0, 
+        35.0, 
+        24.0, 
+        15.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "PFN1", 
+      "clust": 52, 
+      "cat_2_index": 44, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 9, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 51, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 25, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 35, 
+      "rankvar": 48, 
+      "cat_4_index": 39
+    }, 
+    {
+      "cat_3_index": 48, 
+      "group": [
+        27.0, 
+        27.0, 
+        27.0, 
+        26.0, 
+        26.0, 
+        20.0, 
+        17.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "PLEKHG2", 
+      "clust": 25, 
+      "cat_2_index": 45, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 49, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 20, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 24, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 36, 
+      "rankvar": 16, 
+      "cat_4_index": 40
+    }, 
+    {
+      "cat_3_index": 49, 
+      "group": [
+        54.0, 
+        54.0, 
+        53.0, 
+        52.0, 
+        51.0, 
+        40.0, 
+        34.0, 
+        23.0, 
+        15.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "PRPF40A", 
+      "clust": 54, 
+      "cat_2_index": 46, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 50, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 21, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 23, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 37, 
+      "rankvar": 17, 
+      "cat_4_index": 41
+    }, 
+    {
+      "cat_3_index": 50, 
+      "group": [
+        33.0, 
+        33.0, 
+        33.0, 
+        32.0, 
+        32.0, 
+        25.0, 
+        20.0, 
+        14.0, 
+        10.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "RAC1", 
+      "clust": 32, 
+      "cat_2_index": 47, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 10, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 67, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 22, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 38, 
+      "rankvar": 67, 
+      "cat_4_index": 42
+    }, 
+    {
+      "cat_3_index": 10, 
+      "group": [
+        36.0, 
+        36.0, 
+        36.0, 
+        35.0, 
+        35.0, 
+        27.0, 
+        22.0, 
+        15.0, 
+        11.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "RACGAP1", 
+      "clust": 33, 
+      "cat_2_index": 48, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 11, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 55, 
+      "cat-1": "Seed: Seed", 
+      "ini": 21, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 64, 
+      "rankvar": 55, 
+      "cat_4_index": 43
+    }, 
+    {
+      "cat_3_index": 51, 
+      "group": [
+        58.0, 
+        58.0, 
+        57.0, 
+        55.0, 
+        54.0, 
+        43.0, 
+        37.0, 
+        26.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "RBX1", 
+      "clust": 61, 
+      "cat_2_index": 49, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 51, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 41, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 20, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 39, 
+      "rankvar": 40, 
+      "cat_4_index": 44
+    }, 
+    {
+      "cat_3_index": 52, 
+      "group": [
+        8.0, 
+        8.0, 
+        8.0, 
+        8.0, 
+        8.0, 
+        6.0, 
+        6.0, 
+        4.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "RHEB", 
+      "clust": 7, 
+      "cat_2_index": 50, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 52, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 22, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 19, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 40, 
+      "rankvar": 24, 
+      "cat_4_index": 45
+    }, 
+    {
+      "cat_3_index": 53, 
+      "group": [
+        10.0, 
+        10.0, 
+        10.0, 
+        10.0, 
+        10.0, 
+        7.0, 
+        7.0, 
+        5.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "RHEBL1", 
+      "clust": 12, 
+      "cat_2_index": 51, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 53, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 32, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 18, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 41, 
+      "rankvar": 32, 
+      "cat_4_index": 46
+    }, 
+    {
+      "cat_3_index": 54, 
+      "group": [
+        56.0, 
+        56.0, 
+        55.0, 
+        54.0, 
+        53.0, 
+        42.0, 
+        36.0, 
+        25.0, 
+        16.0, 
+        8.0, 
+        1.0
+      ], 
+      "name": "RIT1", 
+      "clust": 56, 
+      "cat_2_index": 52, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 54, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 23, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 17, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 42, 
+      "rankvar": 18, 
+      "cat_4_index": 47
+    }, 
+    {
+      "cat_3_index": 55, 
+      "group": [
+        11.0, 
+        11.0, 
+        11.0, 
+        11.0, 
+        11.0, 
+        8.0, 
+        7.0, 
+        5.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "RPS6KB1", 
+      "clust": 10, 
+      "cat_2_index": 53, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 55, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 52, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 16, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 43, 
+      "rankvar": 51, 
+      "cat_4_index": 48
+    }, 
+    {
+      "cat_3_index": 56, 
+      "group": [
+        6.0, 
+        6.0, 
+        6.0, 
+        6.0, 
+        6.0, 
+        5.0, 
+        5.0, 
+        4.0, 
+        3.0, 
+        2.0, 
+        1.0
+      ], 
+      "name": "RPTOR", 
+      "clust": 5, 
+      "cat_2_index": 54, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 56, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 46, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 15, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 44, 
+      "rankvar": 45, 
+      "cat_4_index": 49
+    }, 
+    {
+      "cat_3_index": 57, 
+      "group": [
+        35.0, 
+        35.0, 
+        35.0, 
+        34.0, 
+        34.0, 
+        26.0, 
+        21.0, 
+        15.0, 
+        11.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "SH3RF1", 
+      "clust": 35, 
+      "cat_2_index": 55, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 57, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 42, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 14, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 45, 
+      "rankvar": 41, 
+      "cat_4_index": 50
+    }, 
+    {
+      "cat_3_index": 11, 
+      "group": [
+        65.0, 
+        65.0, 
+        64.0, 
+        62.0, 
+        60.0, 
+        47.0, 
+        39.0, 
+        28.0, 
+        18.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "SIRT2", 
+      "clust": 67, 
+      "cat_2_index": 2, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 58, 
+      "cat-2": "Myelination: Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 43, 
+      "cat-1": "Seed: Seed", 
+      "ini": 13, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 65, 
+      "rankvar": 42, 
+      "cat_4_index": 51
+    }, 
+    {
+      "cat_3_index": 58, 
+      "group": [
+        46.0, 
+        46.0, 
+        45.0, 
+        44.0, 
+        43.0, 
+        32.0, 
+        27.0, 
+        18.0, 
+        13.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "SOCS7", 
+      "clust": 47, 
+      "cat_2_index": 56, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 59, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 24, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 12, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 46, 
+      "rankvar": 19, 
+      "cat_4_index": 52
+    }, 
+    {
+      "cat_3_index": 59, 
+      "group": [
+        51.0, 
+        51.0, 
+        50.0, 
+        49.0, 
+        48.0, 
+        37.0, 
+        31.0, 
+        21.0, 
+        14.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "SPTA1", 
+      "clust": 49, 
+      "cat_2_index": 57, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 60, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 44, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 11, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 47, 
+      "rankvar": 43, 
+      "cat_4_index": 53
+    }, 
+    {
+      "cat_3_index": 12, 
+      "group": [
+        22.0, 
+        22.0, 
+        22.0, 
+        21.0, 
+        21.0, 
+        18.0, 
+        15.0, 
+        11.0, 
+        8.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "SSH2", 
+      "clust": 22, 
+      "cat_2_index": 58, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 12, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 25, 
+      "cat-1": "Seed: Seed", 
+      "ini": 10, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 66, 
+      "rankvar": 27, 
+      "cat_4_index": 54
+    }, 
+    {
+      "cat_3_index": 60, 
+      "group": [
+        28.0, 
+        28.0, 
+        28.0, 
+        27.0, 
+        27.0, 
+        20.0, 
+        17.0, 
+        12.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "TBC1D3F", 
+      "clust": 24, 
+      "cat_2_index": 59, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 61, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 26, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 9, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 48, 
+      "rankvar": 20, 
+      "cat_4_index": 55
+    }, 
+    {
+      "cat_3_index": 61, 
+      "group": [
+        52.0, 
+        52.0, 
+        51.0, 
+        50.0, 
+        49.0, 
+        38.0, 
+        32.0, 
+        22.0, 
+        14.0, 
+        7.0, 
+        1.0
+      ], 
+      "name": "TES", 
+      "clust": 48, 
+      "cat_2_index": 60, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 62, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 33, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 8, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 49, 
+      "rankvar": 33, 
+      "cat_4_index": 56
+    }, 
+    {
+      "cat_3_index": 13, 
+      "group": [
+        20.0, 
+        20.0, 
+        20.0, 
+        20.0, 
+        20.0, 
+        17.0, 
+        14.0, 
+        10.0, 
+        7.0, 
+        4.0, 
+        1.0
+      ], 
+      "name": "TLN1", 
+      "clust": 19, 
+      "cat_2_index": 61, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 13, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: LVO", 
+      "rank": 34, 
+      "cat-1": "Seed: Seed", 
+      "ini": 7, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 67, 
+      "rankvar": 34, 
+      "cat_4_index": 57
+    }, 
+    {
+      "cat_3_index": 62, 
+      "group": [
+        66.0, 
+        66.0, 
+        65.0, 
+        63.0, 
+        61.0, 
+        48.0, 
+        40.0, 
+        28.0, 
+        18.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "TUBA4A", 
+      "clust": 65, 
+      "cat_2_index": 62, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 63, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 56, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 6, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 50, 
+      "rankvar": 56, 
+      "cat_4_index": 58
+    }, 
+    {
+      "cat_3_index": 63, 
+      "group": [
+        31.0, 
+        31.0, 
+        31.0, 
+        30.0, 
+        30.0, 
+        23.0, 
+        19.0, 
+        13.0, 
+        9.0, 
+        5.0, 
+        1.0
+      ], 
+      "name": "VAV1", 
+      "clust": 23, 
+      "cat_2_index": 63, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 64, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 57, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 5, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 51, 
+      "rankvar": 57, 
+      "cat_4_index": 59
+    }, 
+    {
+      "cat_3_index": 64, 
+      "group": [
+        48.0, 
+        48.0, 
+        47.0, 
+        46.0, 
+        45.0, 
+        34.0, 
+        29.0, 
+        20.0, 
+        13.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "VAV2", 
+      "clust": 44, 
+      "cat_2_index": 64, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 65, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 27, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 4, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 52, 
+      "rankvar": 25, 
+      "cat_4_index": 60
+    }, 
+    {
+      "cat_3_index": 65, 
+      "group": [
+        39.0, 
+        39.0, 
+        38.0, 
+        37.0, 
+        36.0, 
+        28.0, 
+        23.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "WASF1", 
+      "clust": 41, 
+      "cat_2_index": 65, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 66, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 64, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 3, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 53, 
+      "rankvar": 64, 
+      "cat_4_index": 66
+    }, 
+    {
+      "cat_3_index": 66, 
+      "group": [
+        43.0, 
+        43.0, 
+        42.0, 
+        41.0, 
+        40.0, 
+        30.0, 
+        25.0, 
+        16.0, 
+        12.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "WASF2", 
+      "clust": 37, 
+      "cat_2_index": 66, 
+      "cat-4": "Wave: Wave", 
+      "cat_0_index": 14, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 47, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 2, 
+      "cat-0": "Cytoskeleton: Cytoskeleton", 
+      "cat_1_index": 54, 
+      "rankvar": 46, 
+      "cat_4_index": 67
+    }, 
+    {
+      "cat_3_index": 67, 
+      "group": [
+        63.0, 
+        63.0, 
+        62.0, 
+        60.0, 
+        59.0, 
+        46.0, 
+        38.0, 
+        27.0, 
+        17.0, 
+        9.0, 
+        1.0
+      ], 
+      "name": "XRCC6", 
+      "clust": 63, 
+      "cat_2_index": 67, 
+      "cat-4": "Wave: Not Wave", 
+      "cat_0_index": 67, 
+      "cat-2": "Myelination: Not Myelination", 
+      "cat-3": "LVO: Not LVO", 
+      "rank": 35, 
+      "cat-1": "Seed: Not Seed", 
+      "ini": 1, 
+      "cat-0": "Cytoskeleton: Not Cytoskeleton", 
+      "cat_1_index": 55, 
+      "rankvar": 35, 
+      "cat_4_index": 61
+    }
+  ], 
+  "links": [
+    {
+      "source": 0, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 15, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 20, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 21, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 26, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 35, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 38, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 39, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 42, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 56, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 57, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 63, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 64, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 65, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 66, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 1, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 10, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 14, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 17, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 30, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 43, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 57, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 61, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 63, 
+      "value": 1.0
+    }, 
+    {
+      "source": 2, 
+      "target": 2, 
+      "value": 1.0
+    }, 
+    {
+      "source": 2, 
+      "target": 10, 
+      "value": 1.0
+    }, 
+    {
+      "source": 2, 
+      "target": 40, 
+      "value": 1.0
+    }, 
+    {
+      "source": 2, 
+      "target": 43, 
+      "value": 1.0
+    }, 
+    {
+      "source": 2, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 2, 
+      "target": 58, 
+      "value": 1.0
+    }, 
+    {
+      "source": 2, 
+      "target": 65, 
+      "value": 1.0
+    }, 
+    {
+      "source": 2, 
+      "target": 66, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 3, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 4, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 16, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 19, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 26, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 50, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 52, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 54, 
+      "value": 1.0
+    }, 
+    {
+      "source": 4, 
+      "target": 3, 
+      "value": 1.0
+    }, 
+    {
+      "source": 4, 
+      "target": 4, 
+      "value": 1.0
+    }, 
+    {
+      "source": 4, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 5, 
+      "target": 5, 
+      "value": 1.0
+    }, 
+    {
+      "source": 5, 
+      "target": 15, 
+      "value": 1.0
+    }, 
+    {
+      "source": 5, 
+      "target": 38, 
+      "value": 1.0
+    }, 
+    {
+      "source": 5, 
+      "target": 39, 
+      "value": 1.0
+    }, 
+    {
+      "source": 5, 
+      "target": 65, 
+      "value": 1.0
+    }, 
+    {
+      "source": 6, 
+      "target": 6, 
+      "value": 1.0
+    }, 
+    {
+      "source": 6, 
+      "target": 13, 
+      "value": 1.0
+    }, 
+    {
+      "source": 6, 
+      "target": 48, 
+      "value": 1.0
+    }, 
+    {
+      "source": 7, 
+      "target": 7, 
+      "value": 1.0
+    }, 
+    {
+      "source": 7, 
+      "target": 13, 
+      "value": 1.0
+    }, 
+    {
+      "source": 7, 
+      "target": 29, 
+      "value": 1.0
+    }, 
+    {
+      "source": 7, 
+      "target": 48, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 9, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 32, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 33, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 34, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 41, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 42, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 44, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 52, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 59, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 63, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 65, 
+      "value": 1.0
+    }, 
+    {
+      "source": 8, 
+      "target": 66, 
+      "value": 1.0
+    }, 
+    {
+      "source": 9, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 9, 
+      "target": 9, 
+      "value": 1.0
+    }, 
+    {
+      "source": 9, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 10, 
+      "target": 1, 
+      "value": 1.0
+    }, 
+    {
+      "source": 10, 
+      "target": 2, 
+      "value": 1.0
+    }, 
+    {
+      "source": 10, 
+      "target": 10, 
+      "value": 1.0
+    }, 
+    {
+      "source": 10, 
+      "target": 58, 
+      "value": 1.0
+    }, 
+    {
+      "source": 11, 
+      "target": 11, 
+      "value": 1.0
+    }, 
+    {
+      "source": 11, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 11, 
+      "target": 47, 
+      "value": 1.0
+    }, 
+    {
+      "source": 12, 
+      "target": 12, 
+      "value": 1.0
+    }, 
+    {
+      "source": 12, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 12, 
+      "target": 62, 
+      "value": 1.0
+    }, 
+    {
+      "source": 13, 
+      "target": 6, 
+      "value": 1.0
+    }, 
+    {
+      "source": 13, 
+      "target": 7, 
+      "value": 1.0
+    }, 
+    {
+      "source": 13, 
+      "target": 13, 
+      "value": 1.0
+    }, 
+    {
+      "source": 13, 
+      "target": 25, 
+      "value": 1.0
+    }, 
+    {
+      "source": 13, 
+      "target": 31, 
+      "value": 1.0
+    }, 
+    {
+      "source": 13, 
+      "target": 48, 
+      "value": 1.0
+    }, 
+    {
+      "source": 13, 
+      "target": 51, 
+      "value": 1.0
+    }, 
+    {
+      "source": 14, 
+      "target": 1, 
+      "value": 1.0
+    }, 
+    {
+      "source": 14, 
+      "target": 14, 
+      "value": 1.0
+    }, 
+    {
+      "source": 14, 
+      "target": 18, 
+      "value": 1.0
+    }, 
+    {
+      "source": 14, 
+      "target": 23, 
+      "value": 1.0
+    }, 
+    {
+      "source": 14, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 15, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 15, 
+      "target": 5, 
+      "value": 1.0
+    }, 
+    {
+      "source": 15, 
+      "target": 15, 
+      "value": 1.0
+    }, 
+    {
+      "source": 15, 
+      "target": 17, 
+      "value": 1.0
+    }, 
+    {
+      "source": 15, 
+      "target": 23, 
+      "value": 1.0
+    }, 
+    {
+      "source": 15, 
+      "target": 38, 
+      "value": 1.0
+    }, 
+    {
+      "source": 15, 
+      "target": 39, 
+      "value": 1.0
+    }, 
+    {
+      "source": 15, 
+      "target": 65, 
+      "value": 1.0
+    }, 
+    {
+      "source": 15, 
+      "target": 66, 
+      "value": 1.0
+    }, 
+    {
+      "source": 16, 
+      "target": 3, 
+      "value": 1.0
+    }, 
+    {
+      "source": 16, 
+      "target": 16, 
+      "value": 1.0
+    }, 
+    {
+      "source": 17, 
+      "target": 1, 
+      "value": 1.0
+    }, 
+    {
+      "source": 17, 
+      "target": 15, 
+      "value": 1.0
+    }, 
+    {
+      "source": 17, 
+      "target": 17, 
+      "value": 1.0
+    }, 
+    {
+      "source": 17, 
+      "target": 20, 
+      "value": 1.0
+    }, 
+    {
+      "source": 17, 
+      "target": 21, 
+      "value": 1.0
+    }, 
+    {
+      "source": 17, 
+      "target": 39, 
+      "value": 1.0
+    }, 
+    {
+      "source": 17, 
+      "target": 65, 
+      "value": 1.0
+    }, 
+    {
+      "source": 18, 
+      "target": 14, 
+      "value": 1.0
+    }, 
+    {
+      "source": 18, 
+      "target": 18, 
+      "value": 1.0
+    }, 
+    {
+      "source": 18, 
+      "target": 19, 
+      "value": 1.0
+    }, 
+    {
+      "source": 19, 
+      "target": 3, 
+      "value": 1.0
+    }, 
+    {
+      "source": 19, 
+      "target": 18, 
+      "value": 1.0
+    }, 
+    {
+      "source": 19, 
+      "target": 19, 
+      "value": 1.0
+    }, 
+    {
+      "source": 19, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 19, 
+      "target": 50, 
+      "value": 1.0
+    }, 
+    {
+      "source": 19, 
+      "target": 52, 
+      "value": 1.0
+    }, 
+    {
+      "source": 19, 
+      "target": 53, 
+      "value": 1.0
+    }, 
+    {
+      "source": 20, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 20, 
+      "target": 17, 
+      "value": 1.0
+    }, 
+    {
+      "source": 20, 
+      "target": 20, 
+      "value": 1.0
+    }, 
+    {
+      "source": 20, 
+      "target": 24, 
+      "value": 1.0
+    }, 
+    {
+      "source": 20, 
+      "target": 43, 
+      "value": 1.0
+    }, 
+    {
+      "source": 20, 
+      "target": 45, 
+      "value": 1.0
+    }, 
+    {
+      "source": 20, 
+      "target": 57, 
+      "value": 1.0
+    }, 
+    {
+      "source": 20, 
+      "target": 60, 
+      "value": 1.0
+    }, 
+    {
+      "source": 21, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 21, 
+      "target": 17, 
+      "value": 1.0
+    }, 
+    {
+      "source": 21, 
+      "target": 21, 
+      "value": 1.0
+    }, 
+    {
+      "source": 21, 
+      "target": 57, 
+      "value": 1.0
+    }, 
+    {
+      "source": 21, 
+      "target": 60, 
+      "value": 1.0
+    }, 
+    {
+      "source": 22, 
+      "target": 22, 
+      "value": 1.0
+    }, 
+    {
+      "source": 22, 
+      "target": 43, 
+      "value": 1.0
+    }, 
+    {
+      "source": 22, 
+      "target": 45, 
+      "value": 1.0
+    }, 
+    {
+      "source": 22, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 22, 
+      "target": 67, 
+      "value": 1.0
+    }, 
+    {
+      "source": 23, 
+      "target": 14, 
+      "value": 1.0
+    }, 
+    {
+      "source": 23, 
+      "target": 15, 
+      "value": 1.0
+    }, 
+    {
+      "source": 23, 
+      "target": 23, 
+      "value": 1.0
+    }, 
+    {
+      "source": 24, 
+      "target": 20, 
+      "value": 1.0
+    }, 
+    {
+      "source": 24, 
+      "target": 24, 
+      "value": 1.0
+    }, 
+    {
+      "source": 24, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 24, 
+      "target": 43, 
+      "value": 1.0
+    }, 
+    {
+      "source": 24, 
+      "target": 62, 
+      "value": 1.0
+    }, 
+    {
+      "source": 25, 
+      "target": 13, 
+      "value": 1.0
+    }, 
+    {
+      "source": 25, 
+      "target": 25, 
+      "value": 1.0
+    }, 
+    {
+      "source": 25, 
+      "target": 48, 
+      "value": 1.0
+    }, 
+    {
+      "source": 26, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 26, 
+      "target": 3, 
+      "value": 1.0
+    }, 
+    {
+      "source": 26, 
+      "target": 26, 
+      "value": 1.0
+    }, 
+    {
+      "source": 27, 
+      "target": 27, 
+      "value": 1.0
+    }, 
+    {
+      "source": 27, 
+      "target": 55, 
+      "value": 1.0
+    }, 
+    {
+      "source": 27, 
+      "target": 62, 
+      "value": 1.0
+    }, 
+    {
+      "source": 28, 
+      "target": 28, 
+      "value": 1.0
+    }, 
+    {
+      "source": 28, 
+      "target": 55, 
+      "value": 1.0
+    }, 
+    {
+      "source": 28, 
+      "target": 67, 
+      "value": 1.0
+    }, 
+    {
+      "source": 29, 
+      "target": 7, 
+      "value": 1.0
+    }, 
+    {
+      "source": 29, 
+      "target": 29, 
+      "value": 1.0
+    }, 
+    {
+      "source": 29, 
+      "target": 55, 
+      "value": 1.0
+    }, 
+    {
+      "source": 30, 
+      "target": 1, 
+      "value": 1.0
+    }, 
+    {
+      "source": 30, 
+      "target": 30, 
+      "value": 1.0
+    }, 
+    {
+      "source": 30, 
+      "target": 47, 
+      "value": 1.0
+    }, 
+    {
+      "source": 31, 
+      "target": 13, 
+      "value": 1.0
+    }, 
+    {
+      "source": 31, 
+      "target": 31, 
+      "value": 1.0
+    }, 
+    {
+      "source": 31, 
+      "target": 51, 
+      "value": 1.0
+    }, 
+    {
+      "source": 32, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 32, 
+      "target": 32, 
+      "value": 1.0
+    }, 
+    {
+      "source": 32, 
+      "target": 47, 
+      "value": 1.0
+    }, 
+    {
+      "source": 32, 
+      "target": 54, 
+      "value": 1.0
+    }, 
+    {
+      "source": 33, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 33, 
+      "target": 33, 
+      "value": 1.0
+    }, 
+    {
+      "source": 33, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 33, 
+      "target": 47, 
+      "value": 1.0
+    }, 
+    {
+      "source": 34, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 34, 
+      "target": 34, 
+      "value": 1.0
+    }, 
+    {
+      "source": 34, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 35, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 35, 
+      "target": 35, 
+      "value": 1.0
+    }, 
+    {
+      "source": 35, 
+      "target": 38, 
+      "value": 1.0
+    }, 
+    {
+      "source": 36, 
+      "target": 36, 
+      "value": 1.0
+    }, 
+    {
+      "source": 36, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 36, 
+      "target": 53, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 3, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 4, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 12, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 19, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 24, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 36, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 49, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 50, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 52, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 53, 
+      "value": 1.0
+    }, 
+    {
+      "source": 38, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 38, 
+      "target": 5, 
+      "value": 1.0
+    }, 
+    {
+      "source": 38, 
+      "target": 15, 
+      "value": 1.0
+    }, 
+    {
+      "source": 38, 
+      "target": 35, 
+      "value": 1.0
+    }, 
+    {
+      "source": 38, 
+      "target": 38, 
+      "value": 1.0
+    }, 
+    {
+      "source": 38, 
+      "target": 39, 
+      "value": 1.0
+    }, 
+    {
+      "source": 38, 
+      "target": 42, 
+      "value": 1.0
+    }, 
+    {
+      "source": 38, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 38, 
+      "target": 56, 
+      "value": 1.0
+    }, 
+    {
+      "source": 38, 
+      "target": 65, 
+      "value": 1.0
+    }, 
+    {
+      "source": 39, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 39, 
+      "target": 5, 
+      "value": 1.0
+    }, 
+    {
+      "source": 39, 
+      "target": 15, 
+      "value": 1.0
+    }, 
+    {
+      "source": 39, 
+      "target": 17, 
+      "value": 1.0
+    }, 
+    {
+      "source": 39, 
+      "target": 38, 
+      "value": 1.0
+    }, 
+    {
+      "source": 39, 
+      "target": 39, 
+      "value": 1.0
+    }, 
+    {
+      "source": 39, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 39, 
+      "target": 65, 
+      "value": 1.0
+    }, 
+    {
+      "source": 39, 
+      "target": 66, 
+      "value": 1.0
+    }, 
+    {
+      "source": 40, 
+      "target": 2, 
+      "value": 1.0
+    }, 
+    {
+      "source": 40, 
+      "target": 40, 
+      "value": 1.0
+    }, 
+    {
+      "source": 40, 
+      "target": 61, 
+      "value": 1.0
+    }, 
+    {
+      "source": 41, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 41, 
+      "target": 41, 
+      "value": 1.0
+    }, 
+    {
+      "source": 41, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 42, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 42, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 42, 
+      "target": 38, 
+      "value": 1.0
+    }, 
+    {
+      "source": 42, 
+      "target": 42, 
+      "value": 1.0
+    }, 
+    {
+      "source": 42, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 42, 
+      "target": 54, 
+      "value": 1.0
+    }, 
+    {
+      "source": 43, 
+      "target": 1, 
+      "value": 1.0
+    }, 
+    {
+      "source": 43, 
+      "target": 2, 
+      "value": 1.0
+    }, 
+    {
+      "source": 43, 
+      "target": 20, 
+      "value": 1.0
+    }, 
+    {
+      "source": 43, 
+      "target": 22, 
+      "value": 1.0
+    }, 
+    {
+      "source": 43, 
+      "target": 24, 
+      "value": 1.0
+    }, 
+    {
+      "source": 43, 
+      "target": 43, 
+      "value": 1.0
+    }, 
+    {
+      "source": 43, 
+      "target": 65, 
+      "value": 1.0
+    }, 
+    {
+      "source": 44, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 44, 
+      "target": 44, 
+      "value": 1.0
+    }, 
+    {
+      "source": 44, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 45, 
+      "target": 20, 
+      "value": 1.0
+    }, 
+    {
+      "source": 45, 
+      "target": 22, 
+      "value": 1.0
+    }, 
+    {
+      "source": 45, 
+      "target": 45, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 1, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 2, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 3, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 9, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 11, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 14, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 22, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 33, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 34, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 38, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 39, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 41, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 42, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 44, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 52, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 59, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 62, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 63, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 64, 
+      "value": 1.0
+    }, 
+    {
+      "source": 46, 
+      "target": 65, 
+      "value": 1.0
+    }, 
+    {
+      "source": 47, 
+      "target": 11, 
+      "value": 1.0
+    }, 
+    {
+      "source": 47, 
+      "target": 30, 
+      "value": 1.0
+    }, 
+    {
+      "source": 47, 
+      "target": 32, 
+      "value": 1.0
+    }, 
+    {
+      "source": 47, 
+      "target": 33, 
+      "value": 1.0
+    }, 
+    {
+      "source": 47, 
+      "target": 47, 
+      "value": 1.0
+    }, 
+    {
+      "source": 47, 
+      "target": 54, 
+      "value": 1.0
+    }, 
+    {
+      "source": 47, 
+      "target": 62, 
+      "value": 1.0
+    }, 
+    {
+      "source": 47, 
+      "target": 63, 
+      "value": 1.0
+    }, 
+    {
+      "source": 48, 
+      "target": 6, 
+      "value": 1.0
+    }, 
+    {
+      "source": 48, 
+      "target": 7, 
+      "value": 1.0
+    }, 
+    {
+      "source": 48, 
+      "target": 13, 
+      "value": 1.0
+    }, 
+    {
+      "source": 48, 
+      "target": 25, 
+      "value": 1.0
+    }, 
+    {
+      "source": 48, 
+      "target": 48, 
+      "value": 1.0
+    }, 
+    {
+      "source": 49, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 49, 
+      "target": 49, 
+      "value": 1.0
+    }, 
+    {
+      "source": 49, 
+      "target": 53, 
+      "value": 1.0
+    }, 
+    {
+      "source": 50, 
+      "target": 3, 
+      "value": 1.0
+    }, 
+    {
+      "source": 50, 
+      "target": 19, 
+      "value": 1.0
+    }, 
+    {
+      "source": 50, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 50, 
+      "target": 50, 
+      "value": 1.0
+    }, 
+    {
+      "source": 51, 
+      "target": 13, 
+      "value": 1.0
+    }, 
+    {
+      "source": 51, 
+      "target": 31, 
+      "value": 1.0
+    }, 
+    {
+      "source": 51, 
+      "target": 51, 
+      "value": 1.0
+    }, 
+    {
+      "source": 52, 
+      "target": 3, 
+      "value": 1.0
+    }, 
+    {
+      "source": 52, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 52, 
+      "target": 19, 
+      "value": 1.0
+    }, 
+    {
+      "source": 52, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 52, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 52, 
+      "target": 52, 
+      "value": 1.0
+    }, 
+    {
+      "source": 52, 
+      "target": 53, 
+      "value": 1.0
+    }, 
+    {
+      "source": 53, 
+      "target": 19, 
+      "value": 1.0
+    }, 
+    {
+      "source": 53, 
+      "target": 36, 
+      "value": 1.0
+    }, 
+    {
+      "source": 53, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 53, 
+      "target": 49, 
+      "value": 1.0
+    }, 
+    {
+      "source": 53, 
+      "target": 52, 
+      "value": 1.0
+    }, 
+    {
+      "source": 53, 
+      "target": 53, 
+      "value": 1.0
+    }, 
+    {
+      "source": 54, 
+      "target": 3, 
+      "value": 1.0
+    }, 
+    {
+      "source": 54, 
+      "target": 32, 
+      "value": 1.0
+    }, 
+    {
+      "source": 54, 
+      "target": 42, 
+      "value": 1.0
+    }, 
+    {
+      "source": 54, 
+      "target": 47, 
+      "value": 1.0
+    }, 
+    {
+      "source": 54, 
+      "target": 54, 
+      "value": 1.0
+    }, 
+    {
+      "source": 55, 
+      "target": 27, 
+      "value": 1.0
+    }, 
+    {
+      "source": 55, 
+      "target": 28, 
+      "value": 1.0
+    }, 
+    {
+      "source": 55, 
+      "target": 29, 
+      "value": 1.0
+    }, 
+    {
+      "source": 55, 
+      "target": 55, 
+      "value": 1.0
+    }, 
+    {
+      "source": 55, 
+      "target": 62, 
+      "value": 1.0
+    }, 
+    {
+      "source": 56, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 56, 
+      "target": 38, 
+      "value": 1.0
+    }, 
+    {
+      "source": 56, 
+      "target": 56, 
+      "value": 1.0
+    }, 
+    {
+      "source": 57, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 57, 
+      "target": 1, 
+      "value": 1.0
+    }, 
+    {
+      "source": 57, 
+      "target": 20, 
+      "value": 1.0
+    }, 
+    {
+      "source": 57, 
+      "target": 21, 
+      "value": 1.0
+    }, 
+    {
+      "source": 57, 
+      "target": 57, 
+      "value": 1.0
+    }, 
+    {
+      "source": 58, 
+      "target": 2, 
+      "value": 1.0
+    }, 
+    {
+      "source": 58, 
+      "target": 10, 
+      "value": 1.0
+    }, 
+    {
+      "source": 58, 
+      "target": 58, 
+      "value": 1.0
+    }, 
+    {
+      "source": 59, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 59, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 59, 
+      "target": 59, 
+      "value": 1.0
+    }, 
+    {
+      "source": 60, 
+      "target": 20, 
+      "value": 1.0
+    }, 
+    {
+      "source": 60, 
+      "target": 21, 
+      "value": 1.0
+    }, 
+    {
+      "source": 60, 
+      "target": 60, 
+      "value": 1.0
+    }, 
+    {
+      "source": 60, 
+      "target": 61, 
+      "value": 1.0
+    }, 
+    {
+      "source": 61, 
+      "target": 1, 
+      "value": 1.0
+    }, 
+    {
+      "source": 61, 
+      "target": 40, 
+      "value": 1.0
+    }, 
+    {
+      "source": 61, 
+      "target": 60, 
+      "value": 1.0
+    }, 
+    {
+      "source": 61, 
+      "target": 61, 
+      "value": 1.0
+    }, 
+    {
+      "source": 62, 
+      "target": 12, 
+      "value": 1.0
+    }, 
+    {
+      "source": 62, 
+      "target": 24, 
+      "value": 1.0
+    }, 
+    {
+      "source": 62, 
+      "target": 27, 
+      "value": 1.0
+    }, 
+    {
+      "source": 62, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 62, 
+      "target": 47, 
+      "value": 1.0
+    }, 
+    {
+      "source": 62, 
+      "target": 55, 
+      "value": 1.0
+    }, 
+    {
+      "source": 62, 
+      "target": 62, 
+      "value": 1.0
+    }, 
+    {
+      "source": 62, 
+      "target": 63, 
+      "value": 1.0
+    }, 
+    {
+      "source": 63, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 63, 
+      "target": 1, 
+      "value": 1.0
+    }, 
+    {
+      "source": 63, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 63, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 63, 
+      "target": 47, 
+      "value": 1.0
+    }, 
+    {
+      "source": 63, 
+      "target": 62, 
+      "value": 1.0
+    }, 
+    {
+      "source": 63, 
+      "target": 63, 
+      "value": 1.0
+    }, 
+    {
+      "source": 63, 
+      "target": 67, 
+      "value": 1.0
+    }, 
+    {
+      "source": 64, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 64, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 64, 
+      "target": 64, 
+      "value": 1.0
+    }, 
+    {
+      "source": 65, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 65, 
+      "target": 2, 
+      "value": 1.0
+    }, 
+    {
+      "source": 65, 
+      "target": 5, 
+      "value": 1.0
+    }, 
+    {
+      "source": 65, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 65, 
+      "target": 15, 
+      "value": 1.0
+    }, 
+    {
+      "source": 65, 
+      "target": 17, 
+      "value": 1.0
+    }, 
+    {
+      "source": 65, 
+      "target": 38, 
+      "value": 1.0
+    }, 
+    {
+      "source": 65, 
+      "target": 39, 
+      "value": 1.0
+    }, 
+    {
+      "source": 65, 
+      "target": 43, 
+      "value": 1.0
+    }, 
+    {
+      "source": 65, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 65, 
+      "target": 65, 
+      "value": 1.0
+    }, 
+    {
+      "source": 66, 
+      "target": 0, 
+      "value": 1.0
+    }, 
+    {
+      "source": 66, 
+      "target": 2, 
+      "value": 1.0
+    }, 
+    {
+      "source": 66, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 66, 
+      "target": 15, 
+      "value": 1.0
+    }, 
+    {
+      "source": 66, 
+      "target": 39, 
+      "value": 1.0
+    }, 
+    {
+      "source": 66, 
+      "target": 66, 
+      "value": 1.0
+    }, 
+    {
+      "source": 67, 
+      "target": 22, 
+      "value": 1.0
+    }, 
+    {
+      "source": 67, 
+      "target": 28, 
+      "value": 1.0
+    }, 
+    {
+      "source": 67, 
+      "target": 63, 
+      "value": 1.0
+    }, 
+    {
+      "source": 67, 
+      "target": 67, 
+      "value": 1.0
+    }
+  ], 
+  "views": []
+}
