@@ -96,7 +96,7 @@ clust_sections
 
 _.each(names_array, function(clust_name){
 
-  inst_network = '/static/networks/'+clust_name+'.json';
+  inst_network = 'networks/'+clust_name+'.json';
 
   d3.json(inst_network, function(network_data){
 
